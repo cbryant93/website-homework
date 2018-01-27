@@ -1,4 +1,4 @@
-* body { padding-top: 19%; } */
+body { padding-top: 19%; }
 
 
 .navbar-default .navbar-brand{
@@ -28,6 +28,13 @@
 .container{
   margin-top: 1%;
 }
+
+hr.style1{
+	border-top: 5px solid black;
+  width: 75%;
+  margin-top: 15%;
+}
+
 
 #myCarousel .carousel-caption {
     left:0;
