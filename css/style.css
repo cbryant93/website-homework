@@ -1,4 +1,22 @@
-body { padding-top: 19%; }
+body {
+  padding-top: 19%;
+  font-family: 'Oxygen', sans-serif;
+  color: black;
+  background: white;
+}
+
+h1{
+  font-weight: bold;
+
+}
+
+a{
+  color: #BAC7D3;
+}
+
+p{
+  font-size: 18px;
+}
 
 <<<<<<< HEAD
 .row{
@@ -6,6 +24,17 @@ body { padding-top: 19%; }
   margin-right: -80px;
 }
 
+.container-fluid{
+  background: #E3EAED;
+}
+
+.jumbotron{
+  background-color: #E3EAED;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+  background-color: #E3EAED;
+}
 
 .navbar-default .navbar-brand{
   color: black;
@@ -13,9 +42,12 @@ body { padding-top: 19%; }
 .navbar-header {
     text-align: center;
     width: 100%;
+
 }
 .navbar-default .navbar-nav > li > a{
   color: black;
+  font-size: 20px;
+  font-weight: bold;
 }
 .navbar-brand {
   float:none;
@@ -38,9 +70,13 @@ body { padding-top: 19%; }
 hr.style1{
 	border-top: 5px solid black;
   width: 75%;
-<<<<<<< HEAD
-  margin-top: 9%;
+  margin-top: 10%;
   margin-bottom: 7%;
+}
+
+.center-block{
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 /* Makes images fully responsive */
@@ -144,8 +180,9 @@ video{
 
 .more-button .btn{
   background-color: black;
-  color: white;
+  color: #F9F9F9;
   width: 75%;
+  font-size: 18px;
 
 }
 
