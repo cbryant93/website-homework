@@ -81,7 +81,17 @@ hr.style1{
 
 }
 
+video{
+  width: 740px;
+  height: 400px;
+}
 
+.more-button .btn{
+  background-color: black;
+  color: white;
+  width: 75%;
+  
+}
 
 =======
 >>>>>>> 2a26893911fafabdbb9f104d31076d10574cf8f9
