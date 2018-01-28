@@ -90,8 +90,16 @@ video{
   background-color: black;
   color: white;
   width: 75%;
-  
+
 }
+
+footer{
+  background-color: black;
+  margin-top: 5%;
+  text-align: center;
+
+}
+
 
 =======
 >>>>>>> 2a26893911fafabdbb9f104d31076d10574cf8f9
