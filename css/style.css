@@ -1,5 +1,10 @@
 body { padding-top: 19%; }
 
+.row{
+  margin-left: -80px;
+  margin-right: -80px;
+}
+
 
 .navbar-default .navbar-brand{
   color: black;
@@ -60,15 +65,19 @@ hr.style1{
 	background-color:#eee;
 }
 
+.news{
+  margin: auto;
+  /* text-align: center; */
 
-.news .thumbnail{
 
-  display:block;
-  text-align: center;
-  margin-left: 20px;
-  margin-right: 20px;
-  max-width: 350px;
 }
+.thumbnail{
+
+  border: 0px;
+
+}
+
+
 
 @media (min-width: 992px) {
 	#myCarousel {padding-right:33.3333%;}
